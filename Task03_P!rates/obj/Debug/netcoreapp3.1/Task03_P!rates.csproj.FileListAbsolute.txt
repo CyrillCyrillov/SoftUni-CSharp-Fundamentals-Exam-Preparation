@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.exe
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\bin\Debug\netcoreapp3.1\Task03_P!rates.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task03_P!rates\obj\Debug\netcoreapp3.1\Task03_P!rates.genruntimeconfig.cache
