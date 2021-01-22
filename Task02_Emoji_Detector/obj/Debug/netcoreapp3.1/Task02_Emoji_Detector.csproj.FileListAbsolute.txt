@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.exe
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\bin\Debug\netcoreapp3.1\Task02_Emoji_Detector.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Task02_Emoji_Detector\obj\Debug\netcoreapp3.1\Task02_Emoji_Detector.genruntimeconfig.cache
