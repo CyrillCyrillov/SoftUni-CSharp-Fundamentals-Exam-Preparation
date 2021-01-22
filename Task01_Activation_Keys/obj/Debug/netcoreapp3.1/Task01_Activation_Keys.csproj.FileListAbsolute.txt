@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.exe
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\bin\Debug\netcoreapp3.1\Task01_Activation_Keys.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.dll
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.pdb
+C:\Users\Kiril\source\repos\Exam_Preparatione\Exam_Preparatione\obj\Debug\netcoreapp3.1\Task01_Activation_Keys.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task01_Activation_Keys/1.0.0": {
+        "runtime": {
+          "Task01_Activation_Keys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task01_Activation_Keys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
